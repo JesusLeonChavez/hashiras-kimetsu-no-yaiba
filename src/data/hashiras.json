@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Giyu Tomioka",
+        "image": "/src/image/Giyu_Tomioka.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Mitsuri Kanroji",
+        "image": "/src/image/Mitsuri_Kanroji.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Obanai Iguro",
+        "image": "/src/image/Obanai_Iguro.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Sanemi Shinazugawa",
+        "image": "/src/image/Sanemi_Shinazugawa.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Gyomei Himejima",
+        "image": "/src/image/Gyomei_Himejima.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Tengen Uzui",
+        "image": "/src/image/Tengen_Uzui.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Muichiro Tokito",
+        "image": "/src/image/Muichiro_Tokito.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Shinobu Kocho",
+        "image": "/src/image/Shinobu_Kocho.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Kyojuro Rengoku",
+        "image": "/src/image/Kyojuro_Rengoku.jpg"
+    }  
+]
